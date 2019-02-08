@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["KP5C3"]); }
+
+__d("ReactionIconClassNamesLegacy",["cx"],(function(a,b,c,d,e,f,g){"use strict";e.exports={root:"_9zc",icon:"_2p78",reactions:{like:"_3j7l",love:"_3j7m",anger:"_3j7q",wow:"_3j7n",haha:"_3j7o",sorry:"_3j7r",yay:"_3j7p",confused:"_3j7s",dorothy:"_3rya",toto:"_4aou",flame:"_3qr6",plane:"_4vps"},sizes:{13:"_9-y",16:"_9--",18:"_19kl",48:"_9-_",96:"_9_0"}}}),null);
